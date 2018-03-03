@@ -1,0 +1,9 @@
+Pruebas Funcionales y ATDD
+
+- Tipos de tests
+- Piramide de Mike Cohn
+- nightwatch-cucumber
+- Gherkin syntax
+- Feature Files
+- Step Definitions
+- ATDD
