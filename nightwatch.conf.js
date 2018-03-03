@@ -4,8 +4,10 @@ let chromedriver = require('chromedriver');
 require('nightwatch-cucumber')({
     cucumberArgs: [
 	'--require', 'features/step_definitions',
+        '--format', 'node_modules/cucumber-pretty',
         'features'
-    ]
+    ],
+    nightwatchOutput: false
 })
 
 module.exports = {
