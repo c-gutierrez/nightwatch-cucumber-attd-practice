@@ -1,0 +1,18 @@
+- Tipos de tests
+
+1.- install nightwatch
+2.- install cucumber
+3.- install nightwatch-cucumber
+4.- install selenium-server
+5.- install chromedrive
+6.- create nightwatch.conf.js
+7.- require selenium-server
+8.- require chromedrive
+9.- remove nightwatchOutput
+
+10.- add cucumber-pretty
+
+11.- add screenshots on failure
+12.- install cucumber-html-reporter
+13.- create create-html-report.js
+14.- run create reports
